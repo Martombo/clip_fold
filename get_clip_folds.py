@@ -1,0 +1,1 @@
+/Users/martin/Dropbox/codez/python/pycharm/clip_folds/get_clip_folds.py
